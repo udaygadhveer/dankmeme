@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meme</string>
+    <string name="ShareButtonText">share</string>
+    <string name="NextButtonText"><![CDATA[Next->>]]></string>
+</resources>
